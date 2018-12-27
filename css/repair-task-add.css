@@ -1,0 +1,14 @@
+#mainContent{
+	
+}
+#itemHeader{
+	background-color: #ececec;
+	color: #0081c2;
+	line-height: 30px;
+	margin-top: 20px;
+}
+p{
+	margin-left: 10px;
+	font-size: 18px;
+	font-weight: bold;
+}
